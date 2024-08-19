@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingfriday77
+- 👋 Hi, I’m @Ayush ingle
 - 👀 I’m interested in Linux and programming
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
