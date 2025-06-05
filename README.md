@@ -17,9 +17,9 @@
 
 📫 Connect with Me
 
-GitHub: https://github.com/codingfriday77 
-LinkedIn: https://www.linkedin.com/in/ayush-ingle-33707a231/ 
-Email: ayushingale77@gmail.com
+- Email: ayushingale77@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/ayush-ingle-33707a231/ 
+
 
 
 
